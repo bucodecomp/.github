@@ -1,1 +1,2 @@
-# .github
+# .BuCode - Boğaziçi Algorithm Competition
+---
