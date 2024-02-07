@@ -1,6 +1,6 @@
 # BuCode - Boğaziçi Algorithm Competition
 
-[![img](./assets/bucode.png)](https://www.bucode.org/)
+[![img](/profile/assets/bucode.png)](https://www.bucodecomp.com/)
 
 Compete in our coding competition and showcase your skills! Are you prepared for the challenge in one of the top university-led coding competitions?
 
